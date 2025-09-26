@@ -25,30 +25,6 @@ This portal provides a centralized platform for administrators, teachers, and st
 
 ---
 
-## 📂 Repository Structure
-student_portal/
-├── backend/ # Express API, routes, models, controllers
-│ ├── config/ # Database & environment config
-│ ├── controllers/ # Business logic
-│ ├── models/ # DB schemas
-│ ├── routes/ # API routes
-│ ├── server.js # Entry point
-│ └── package.json
-│
-├── frontend/ # React frontend
-│ ├── public/ # Static assets
-│ ├── src/ # React components, pages, utils
-│ ├── vite.config.js # Vite config
-│ └── package.json
-│
-├── README.md
-└── LICENSE
-
-yaml
-Copy code
-
----
-
 ## 🔧 Installation & Setup
 
 ### 1. Clone the repository
